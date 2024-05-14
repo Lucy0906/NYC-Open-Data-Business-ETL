@@ -19,4 +19,7 @@ We use supabase to create the following diagram. Dimensional modeling for DCWP d
 We use supabase to create the following diagram. Dimensional modeling for DCWP data involves creating a structure that facilitates analysis and reporting. This includes defining dimensions such as business type and date.
 ![image](https://github.com/Lucy0906/HW/assets/159973096/cbe67581-0458-4bf3-b1ac-f6c40819de6d)
 
+## Serving Data 
+Visualizations:https://public.tableau.com/app/profile/lu.chen2788/viz/HW1_17156589017020/Dashboard1?publish=yes
+
 
