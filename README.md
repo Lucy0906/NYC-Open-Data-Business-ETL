@@ -1,14 +1,15 @@
 ## CIS9440 HW1&2
 ## HW1 Data Sourcing 
-## Data Source
+## DataSource
 Here is my data source: https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh/about_data
-This link directs to the NYC Open Data portal where the dataset can be accessed directly.
+This link directs to the NYC Open Data portal where the dataset can be accessed directly. Data Provided By Department of Consumer and Worker Protection (DCWP)
+## Metadata
+This dataset features licenses issued by DCWP to businesses and individuals so that they may legally operate in New York City.
+## Datasize
+This data has 281K rows 27 Columns and each row is aDCA-Issued License
 
 ## Description
 This dataset reflects data as of 7/21/2023. The Department of Consumer and Worker Protection (DCWP) is working on an updated version of this dataset. This dataset features licenses issued by DCWP to businesses and individuals so that they may legally operate in New York City. This dataset is maintained by the City of New York and contains comprehensive information about businesses that are legally licensed to operate within the city limits. It includes details such as business names, addresses, industry types, license numbers, and status.
-
-## Data 
-Datasource Data Provided By Department of Consumer and Worker Protection (DCWP) Metadata This dataset features licenses issued by DCWP to businesses and individuals so that they may legally operate in New York City. Datasize This data has 281K rows 27 Columns and Each row is aDCA-Issued License
 
 ## Data dictionary 
 Here is the data dictionary link: https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh/about_data
