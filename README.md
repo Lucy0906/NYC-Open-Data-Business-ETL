@@ -13,15 +13,22 @@ Datasource Data Provided By Department of Consumer and Worker Protection (DCWP) 
 ## Data dictionary 
 Here is the data dictionary link: https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh/about_data
 
+## HW1 Storage
+I use Azure Blob Storage to store data.
+
 ## HW1 Data Modeling
-We use supabase to create the following diagram. Dimensional modeling for DCWP data involves creating a structure that facilitates analysis and reporting. This includes defining dimensions such as business type and date.
+I use supabase to create the following diagram. Dimensional modeling for DCWP data involves creating a structure that facilitates analysis and reporting. This includes defining dimensions such as business type and date.
 ![image](https://github.com/Lucy0906/HW/assets/159973096/f5c927b8-5ae3-4389-8040-07320ca52c7c)
 
+## HW2 Transformation
+I use ETL tools to do the transformation and creat the data mapping.
+
 ## HW2 Data Modeling
-We use supabase to create the following diagram. Dimensional modeling for DCWP data involves creating a structure that facilitates analysis and reporting. This includes defining dimensions such as business type and date.
+I use supabase to create the following diagram. Dimensional modeling for DCWP data involves creating a structure that facilitates analysis and reporting. This includes defining dimensions such as business type and date.
 ![image](https://github.com/Lucy0906/HW/assets/159973096/cbe67581-0458-4bf3-b1ac-f6c40819de6d)
 
-## Serving Data 
+## HW2 Serving Data 
+I use the tableau to do data visualization.
 Visualizations:[https://public.tableau.com/app/profile/lu.chen2788/viz/HW1_17156589017020/Dashboard1?publish=yes](https://public.tableau.com/app/profile/lu.chen2788/viz/HW2viz/Sheet4)
 
 
