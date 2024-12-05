@@ -1,4 +1,38 @@
-## CIS9440 HW1&2
+# NYC Open Data Business ETL Project
+
+This project demonstrates a complete ETL (Extract, Transform, Load) pipeline for processing and analyzing open data from NYC. It focuses on transforming raw datasets into actionable insights for business analysis using Python and popular data engineering tools.
+
+## Key Features
+
+- **Data Extraction:**  
+  Automates the retrieval of NYC Open Data from public APIs or file sources.
+
+- **Data Transformation:**  
+  Cleans, formats, and processes raw data using Python, ensuring consistency and usability for analysis.
+
+- **Data Loading:**  
+  Loads the transformed data into a structured format for easy querying and visualization.
+
+- **Analysis & Reporting:**  
+  Utilizes data visualization tools like Tableau or Python libraries (e.g., Matplotlib, Seaborn) to derive insights and present findings.
+
+## Tools & Technologies
+
+- **Python:** Core language for scripting the ETL process.  
+- **Pandas & NumPy:** For efficient data manipulation and transformation.  
+- **SQLite/MySQL:** Database integration for storing and querying cleaned data.  
+- **APIs/CSV Files:** Handles dynamic data extraction from NYC Open Data platforms.  
+- **Visualization:** Integration with tools like Tableau or Python visualization libraries.
+
+## Use Case
+
+Designed to streamline the processing of open data for NYC businesses, this project can help identify trends, optimize operations, and make data-driven decisions. The modular ETL pipeline ensures scalability and adaptability for a variety of datasets.
+
+## Repository Link
+
+[NYC Open Data Business ETL](https://github.com/Lucy0906/NYC-Open-Data-Business-ETL)
+
+---
 ## HW1 Data Sourcing 
 ## DataSource
 Here is my data source: https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh/about_data
